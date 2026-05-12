@@ -14,7 +14,8 @@ The Power BI dashboard features interactive elements that allow users to filter 
 *   **Q&A AI Visual:** Natural language search for country-specific data.
 
 > ### [Insert Screenshot 1: Full Power BI Dashboard]
->!https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-12%20202821.png) 
+>!https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-12%20202821.png)
+> https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-12%20224416.png
 
 ---
 

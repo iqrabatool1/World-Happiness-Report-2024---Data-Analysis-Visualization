@@ -53,7 +53,7 @@ Using `Matplotlib` and `Seaborn`, I generated a scatter plot to visualize the re
 ---
 
 ## 🚀 How to Use
-1. **Clone the repo:** `git clone https://github.com/yourusername/project-name.git`
+1. **Clone the repo:** `git clone https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization.git`
 2. **Database:** Import `whr2024.sql` into your SQL environment.
 3. **Dashboard:** Open the `.pbix` file in Power BI Desktop to explore the data.
 

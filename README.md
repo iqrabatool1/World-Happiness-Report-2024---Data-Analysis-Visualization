@@ -27,7 +27,7 @@ I utilized Python to perform deeper statistical correlations that are easier to 
 Using `Matplotlib` and `Seaborn`, I generated a scatter plot to visualize the relationship between **Wealth (Log GDP)** and **Happiness (Ladder Score)**.
 
 > ### [Python Correlation Plot
-> > ![Python Chart](https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-12%20225313.png)
+> > ![Python Chart](https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-13%20094328.png)
 
 ---
 

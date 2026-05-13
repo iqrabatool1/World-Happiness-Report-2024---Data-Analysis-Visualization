@@ -13,9 +13,11 @@ The Power BI dashboard features interactive elements that allow users to filter 
 *   **Top 10 Rankings:** A bar chart showing the happiest nations.
 *   **Q&A AI Visual:** Natural language search for country-specific data.
 
-> ### [Insert Screenshot 1: Full Power BI Dashboard]
->!https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-12%20202821.png)
-> https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-12%20224416.png
+> ### 🖥️ Full Power BI Dashboard
+> ![Power BI Dashboard](https://raw.githubusercontent.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/main/Screenshot%202026-05-12%20202821.png)
+
+> ### 🐍 Python Statistical Analysis
+> ![Python Chart](https://raw.githubusercontent.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/main/Screenshot%202026-05-12%20224416.png)
 
 ---
 

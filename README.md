@@ -14,7 +14,7 @@ The Power BI dashboard features interactive elements that allow users to filter 
 *   **Q&A AI Visual:** Natural language search for country-specific data.
 
 > ### 🖥️ Full Power BI Dashboard
-> ![Power BI Dashboard](https://raw.githubusercontent.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/main/Screenshot%202026-05-12%20202821.png)
+> ![Power BI Dashboard](https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-13%20093453.png)
 
 > ### 🐍 Python Statistical Analysis
 
@@ -47,7 +47,7 @@ Using `Matplotlib` and `Seaborn`, I generated a scatter plot to visualize the re
 *   **Social Support:** Countries with high Social Support targets ( > 0.78) consistently rank in the top 20.
 *   **Data Reliability:** By comparing **Upper** and **Lower Whiskers**, we identified the most stable data points in the 2024 report.
 
-> ![Python Chart](https://raw.githubusercontent.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/main/Screenshot%202026-05-12%20224416.png)
+> ![Python Chart](https://github.com/iqrabatool1/World-Happiness-Report-2024---Data-Analysis-Visualization/blob/main/Screenshot%202026-05-13%20093258.png)
 
 
 ---
